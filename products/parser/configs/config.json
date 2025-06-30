@@ -1,0 +1,1075 @@
+{
+  "categories": [
+    {
+      "type": "Молоко",
+      "lenta": [
+        {
+          "id": 128
+        }
+      ],
+      "perekrestok": [
+        {
+          "id": 114
+        }
+      ],
+      "dixy": [
+        {
+          "id": 11
+        }
+      ],
+      "magnit": [
+        {
+          "id": 45723
+        },
+        {
+          "id": 45725
+        }
+      ]
+    },
+    {
+      "type": "Кефир",
+      "lenta": [
+        {
+          "id": 18658
+        }
+      ],
+      "perekrestok": [
+        {
+          "id": 120,
+          "feature": [
+            {
+              "key": "tip-produkta",
+              "value": "kefir"
+            }
+          ]
+        }
+      ],
+      "dixy": [
+        {
+          "id": 15,
+          "filterData": [
+            {
+              "facet_id": "398",
+              "value": "кефир",
+              "type": "string",
+              "id": "10"
+            }
+          ]
+        }
+      ],
+      "magnit": [
+        {
+          "id": 4837
+        }
+      ]
+    },
+    {
+      "type": "Сметана",
+      "lenta": [
+        {
+          "id": 132
+        }
+      ],
+      "perekrestok": [
+        {
+          "id": 118
+        }
+      ],
+      "dixy": [
+        {
+          "id": 13
+        }
+      ],
+      "magnit": [
+        {
+          "id": 4844
+        }
+      ]
+    },
+    {
+      "type": "Масло сливочное",
+      "lenta": [
+        {
+          "id": 21149
+        },
+        {
+          "id": 21150
+        },
+        {
+          "id": 21151
+        }
+      ],
+      "perekrestok": [
+        {
+          "id": 121
+        }
+      ],
+      "dixy": [
+        {
+          "id": 16,
+          "filterData": [
+            {
+              "facet_id": "424",
+              "value": "масло сливочное",
+              "type": "string",
+              "id": "10"
+            }
+          ]
+        }
+      ],
+      "magnit": [
+        {
+          "id": 17637
+        }
+      ]
+    },
+    {
+      "type": "Творог",
+      "lenta": [
+        {
+          "id": 402
+        }
+      ],
+      "perekrestok": [
+        {
+          "id": 117
+        }
+      ],
+      "dixy": [
+        {
+          "id": 12
+        }
+      ],
+      "magnit": [
+        {
+          "id": 45717
+        },
+        {
+          "id": 45715
+        },
+        {
+          "id": 45719
+        }
+      ]
+    },
+    {
+      "type": "Сыр",
+      "lenta": [
+        {
+          "id": 2
+        }
+      ],
+      "perekrestok": [
+        {
+          "id": 122
+        }
+      ],
+      "dixy": [
+        {
+          "id": 29
+        }
+      ],
+      "magnit": [
+        {
+          "id": 37741
+        }
+      ]
+    },
+    {
+      "type": "Яйца",
+      "lenta": [
+        {
+          "id": 135
+        }
+      ],
+      "perekrestok": [
+        {
+          "id": 123
+        }
+      ],
+      "dixy": [
+        {
+          "id": 18
+        }
+      ],
+      "magnit": [
+        {
+          "id": 4854
+        }
+      ]
+    },
+    {
+      "type": "Масло растительное",
+      "lenta": [
+        {
+          "id": 20826
+        }
+      ],
+      "perekrestok": [
+        {
+          "id": 104
+        }
+      ],
+      "dixy": [
+        {
+          "id": 118
+        }
+      ],
+      "magnit": [
+        {
+          "id": 4566
+        }
+      ]
+    },
+    {
+      "type": "Маргарин",
+      "lenta": [
+        {
+          "id": 18655
+        }
+      ],
+      "perekrestok": [
+        {
+          "id": 659
+        }
+      ],
+      "dixy": [
+        {
+          "id": 16,
+          "filterData": [
+            {
+              "facet_id": "576",
+              "value": "маргарин",
+              "type": "string",
+              "id": "10"
+            }
+          ]
+        }
+      ],
+      "magnit": [
+        {
+          "id": 17639
+        }
+      ]
+    },
+    {
+      "type": "Соль",
+      "lenta": [
+        {
+          "id": 192,
+          "multicheckbox": [
+            {
+              "key": "attribute_217",
+              "valueIds": [
+                6765299
+              ]
+            }
+          ]
+        }
+      ],
+      "perekrestok": [
+        {
+          "id": 101
+        }
+      ],
+      "dixy": [
+        {
+          "id": 120
+        }
+      ],
+      "magnit": [
+        {
+          "id": 4562
+        }
+      ]
+    },
+    {
+      "type": "Чай",
+      "lenta": [
+        {
+          "id": 250,
+          "multicheckbox": [
+            {
+              "key": "attribute_68",
+              "valueIds": [
+                6757147,
+                6759464
+              ]
+            },
+            {
+              "key": "attribute_211",
+              "valueIds": [
+                6759473
+              ]
+            }
+          ]
+        },
+        {
+          "id": 250,
+          "multicheckbox": [
+            {
+              "key": "attribute_68",
+              "valueIds": [
+                6757147,
+                6759464
+              ]
+            },
+            {
+              "key": "attribute_211",
+              "valueIds": [
+                6757146
+              ]
+            }
+          ]
+        }
+      ],
+      "perekrestok": [
+        {
+          "id": 82,
+          "feature": [
+            {
+              "key": "sort-chaya",
+              "value": "zelenyj"
+            },
+            {
+              "key": "sort-chaya",
+              "value": "cernyj"
+            },
+            {
+              "key": "vid-chaya",
+              "value": "listovoj"
+            }
+          ]
+        },
+        {
+          "id": 82,
+          "feature": [
+            {
+              "key": "sort-chaya",
+              "value": "zelenyj"
+            },
+            {
+              "key": "sort-chaya",
+              "value": "cernyj"
+            },
+            {
+              "key": "vid-chaya",
+              "value": "paketiki"
+            }
+          ]
+        }
+      ],
+      "dixy": [
+        {
+          "id": 139,
+          "filterData": [
+            {
+              "facet_id": "555",
+              "value": "листовой",
+              "type": "string",
+              "id": "37"
+            },
+            {
+              "facet_id": "304",
+              "value": "черный",
+              "type": "string",
+              "id": "65"
+            },
+            {
+              "facet_id": "419",
+              "value": "зеленый",
+              "type": "string",
+              "id": "65"
+            }
+          ]
+        },
+        {
+          "id": 139,
+          "filterData": [
+            {
+              "facet_id": "303",
+              "value": "пакетированный",
+              "type": "string",
+              "id": "37"
+            },
+            {
+              "facet_id": "304",
+              "value": "черный",
+              "type": "string",
+              "id": "65"
+            },
+            {
+              "facet_id": "419",
+              "value": "зеленый",
+              "type": "string",
+              "id": "65"
+            }
+          ]
+        }
+      ],
+      "magnit": [
+        {
+          "id": 5280
+        }
+      ]
+    },
+    {
+      "type": "Специи",
+      "lenta": [
+        {
+          "id": 20889,
+          "multicheckbox": [
+            {
+              "key": "attribute_17",
+              "valueIds": [
+                6946721,
+                6936060,
+                7686575,
+                7471550
+              ]
+            }
+          ]
+        }
+      ],
+      "perekrestok": [
+        {
+          "id": 103,
+          "feature": [
+            {
+              "key": "vid-specii",
+              "value": "ukrop"
+            },
+            {
+              "key": "vid-specii",
+              "value": "petruska"
+            },
+            {
+              "key": "vid-specii",
+              "value": "perec"
+            },
+            {
+              "key": "vid-specii",
+              "value": "lavrovyj-list"
+            }
+          ]
+        }
+      ],
+      "dixy": [
+        {
+          "id": 147
+        }
+      ],
+      "magnit": [
+        {
+          "id": 4558
+        }
+      ]
+    },
+    {
+      "type": "Рыба",
+      "lenta": [
+        {
+          "id": 1169
+        }
+      ],
+      "perekrestok": [
+        {
+          "id": 273
+        }
+      ],
+      "dixy": [
+        {
+          "id": 100
+        }
+      ],
+      "magnit": [
+        {
+          "id": 4460
+        }
+      ]
+    },
+    {
+      "type": "Говядина",
+      "lenta": [
+        {
+          "id": 418
+        },
+        {
+          "id": 679,
+          "multicheckbox": [
+            {
+              "key": "attribute_105",
+              "valueIds": [
+                6820000
+              ]
+            }
+          ]
+        }
+      ],
+      "perekrestok": [
+        {
+          "id": 142
+        },
+        {
+          "id": 145,
+          "feature": [
+            {
+              "key": "vid-myasa",
+              "value": "govadina"
+            }
+          ]
+        }
+      ],
+      "dixy": [
+        {
+          "id": 47
+        },
+        {
+          "id": 50,
+          "filterData": [
+            {
+              "facet_id": "118",
+              "value": "говядина",
+              "type": "string",
+              "id": "41"
+            }
+          ]
+        }
+      ],
+      "magnit": [
+        {
+          "id": 4857
+        },
+        {
+          "id": 45915,
+          "filters": [
+            {
+              "elements": [
+                "Говядина"
+              ],
+              "id": "FASET_PRESERVES_MEAT_CRUDE_CRUDE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "Свинина",
+      "lenta": [
+        {
+          "id": 419
+        },
+        {
+          "id": 679,
+          "multicheckbox": [
+            {
+              "key": "attribute_105",
+              "valueIds": [
+                6754091
+              ]
+            }
+          ]
+        }
+      ],
+      "perekrestok": [
+        {
+          "id": 139
+        },
+        {
+          "id": 145,
+          "feature": [
+            {
+              "key": "vid-myasa",
+              "value": "svinina"
+            }
+          ]
+        }
+      ],
+      "dixy": [
+        {
+          "id": 49
+        },
+        {
+          "id": 50,
+          "filterData": [
+            {
+              "facet_id": "49",
+              "value": "свинина",
+              "type": "string",
+              "id": "41"
+            }
+          ]
+        }
+      ],
+      "magnit": [
+        {
+          "id": 4868
+        },
+        {
+          "id": 45915,
+          "filters": [
+            {
+              "elements": [
+                "Свинина"
+              ],
+              "id": "FASET_PRESERVES_MEAT_CRUDE_CRUDE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "Птица",
+      "lenta": [
+        {
+          "id": 141
+        },
+        {
+          "id": 679,
+          "multicheckbox": [
+            {
+              "key": "attribute_105",
+              "valueIds": [
+                6779457
+              ]
+            }
+          ]
+        }
+      ],
+      "perekrestok": [
+        {
+          "id": 138
+        },
+        {
+          "id": 145,
+          "feature": [
+            {
+              "key": "vid-myasa",
+              "value": "indejka"
+            }
+          ]
+        }
+      ],
+      "dixy": [
+        {
+          "id": 44
+        }
+      ],
+      "magnit": [
+        {
+          "id": 38051
+        }
+      ]
+    },
+    {
+      "type": "Сахар",
+      "lenta": [
+        {
+          "id": 192,
+          "multicheckbox": [
+            {
+              "key": "attribute_217",
+              "valueIds": [
+                6832047
+              ]
+            }
+          ]
+        }
+      ],
+      "perekrestok": [
+        {
+          "id": 83
+        }
+      ],
+      "dixy": [
+        {
+          "id": 122
+        }
+      ],
+      "magnit": [
+        {
+          "id": 38845
+        }
+      ]
+    },
+    {
+      "type": "Печенье",
+      "lenta": [
+        {
+          "id": 21435
+        }
+      ],
+      "perekrestok": [
+        {
+          "id": 197
+        }
+      ],
+      "dixy": [
+        {
+          "id": 66,
+          "filterData": [
+            {
+              "facet_id": "218",
+              "value": "печенье",
+              "type": "string",
+              "id": "10"
+            }
+          ]
+        }
+      ],
+      "magnit": [
+        {
+          "id": 7214
+        }
+      ]
+    },
+    {
+      "type": "Конфеты",
+      "lenta": [
+        {
+          "id": 2633
+        }
+      ],
+      "perekrestok": [
+        {
+          "id": 193
+        }
+      ],
+      "dixy": [
+        {
+          "id": 69
+        },
+        {
+          "id": 72
+        },
+        {
+          "id": 73
+        }
+      ],
+      "magnit": [
+        {
+          "id": 7216
+        },
+        {
+          "id": 7218
+        },
+        {
+          "id": 50675
+        }
+      ]
+    },
+    {
+      "type": "Фрукты",
+      "lenta": [
+        {
+          "id": 153
+        }
+      ],
+      "perekrestok": [
+        {
+          "id": 153
+        }
+      ],
+      "dixy": [
+        {
+          "id": 39
+        }
+      ],
+      "magnit": [
+        {
+          "id": 45763
+        }
+      ]
+    },
+    {
+      "type": "Овощи",
+      "lenta": [
+        {
+          "id": 146
+        }
+      ],
+      "perekrestok": [
+        {
+          "id": 150
+        }
+      ],
+      "dixy": [
+        {
+          "id": 38
+        }
+      ],
+      "magnit": [
+        {
+          "id": 4887
+        }
+      ]
+    },
+    {
+      "type": "Бобовые",
+      "lenta": [
+        {
+          "id": 1881
+        }
+      ],
+      "perekrestok": [
+        {
+          "id": 745
+        }
+      ],
+      "dixy": [
+        {
+          "id": 115,
+          "filterData": [
+            {
+              "facet_id": "446",
+              "value": "фасоль",
+              "type": "string",
+              "id": "10"
+            },
+            {
+              "facet_id": "816",
+              "value": "чечевица",
+              "type": "string",
+              "id": "10"
+            },
+            {
+              "facet_id": "976",
+              "value": "горох",
+              "type": "string",
+              "id": "10"
+            }
+          ]
+        }
+      ],
+      "magnit": [
+        {
+          "id": 4548
+        }
+      ]
+    },
+    {
+      "type": "Мука",
+      "lenta": [
+        {
+          "id": 750,
+          "multicheckbox": [
+            {
+              "key": "attribute_17",
+              "valueIds": [
+                6747459
+              ]
+            }
+          ]
+        }
+      ],
+      "perekrestok": [
+        {
+          "id": 106,
+          "feature": [
+            {
+              "key": "vid-muki",
+              "value": "psenicnaa"
+            }
+          ]
+        }
+      ],
+      "dixy": [
+        {
+          "id": 116,
+          "filterData": [
+            {
+              "facet_id": "275",
+              "value": "мука",
+              "type": "string",
+              "id": "10"
+            }
+          ]
+        }
+      ],
+      "magnit": [
+        {
+          "id": 16535
+        }
+      ]
+    },
+    {
+      "type": "Хлеб",
+      "lenta": [
+        {
+          "id": 165,
+          "multicheckbox": [
+            {
+              "key": "attribute_17",
+              "valueIds": [
+                6747459,
+                6894029
+              ]
+            }
+          ]
+        }
+      ],
+      "perekrestok": [
+        {
+          "id": 243,
+          "feature": [
+            {
+              "key": "muka",
+              "value": "rzanaa"
+            },
+            {
+              "key": "muka",
+              "value": "psenicnaa"
+            }
+          ]
+        }
+      ],
+      "dixy": [
+        {
+          "id": 765
+        },
+        {
+          "id": 760
+        }
+      ],
+      "magnit": [
+        {
+          "id": 5274
+        }
+      ]
+    },
+    {
+      "type": "Макароны",
+      "lenta": [
+        {
+          "id": 31
+        }
+      ],
+      "perekrestok": [
+        {
+          "id": 105
+        }
+      ],
+      "dixy": [
+        {
+          "id": 114
+        }
+      ],
+      "magnit": [
+        {
+          "id": 44595
+        }
+      ]
+    },
+    {
+      "type": "Крупы",
+      "lenta": [
+        {
+          "id": 27,
+          "multicheckbox": [
+            {
+              "key": "attribute_17",
+              "valueIds": [
+                6759269,
+                8065159,
+                6765498,
+                6938610,
+                6796674,
+                6820063,
+                6930157,
+                7102681,
+                6747914,
+                7121650,
+                7102681,
+                7120926,
+                6766469,
+                6790275,
+                8488673,
+                6763520,
+                7876356,
+                6766600,
+                7295217,
+                6792973,
+                7260267,
+                6774863,
+                6849624,
+                6894029,
+                6767841,
+                6747459,
+                6765845
+              ]
+            }
+          ]
+        }
+      ],
+      "perekrestok": [
+        {
+          "id": 107
+        }
+      ],
+      "dixy": [
+        {
+          "id": 115,
+          "filterData": [
+            {
+              "facet_id": "270",
+              "value": "гречка",
+              "type": "string",
+              "id": "10"
+            },
+            {
+              "facet_id": "288",
+              "value": "рис",
+              "type": "string",
+              "id": "10"
+            },
+            {
+              "facet_id": "977",
+              "value": "пшеничная крупа",
+              "type": "string",
+              "id": "10"
+            },
+            {
+              "facet_id": "1014",
+              "value": "манка",
+              "type": "string",
+              "id": "10"
+            },
+            {
+              "facet_id": "1238",
+              "value": "перловая крупа",
+              "type": "string",
+              "id": "10"
+            },
+            {
+              "facet_id": "1261",
+              "value": "крупа",
+              "type": "string",
+              "id": "10"
+            },
+            {
+              "facet_id": "1420",
+              "value": "готовый рецепт",
+              "type": "string",
+              "id": "10"
+            }
+          ]
+        }
+      ],
+      "magnit": [
+        {
+          "id": 16533
+        },
+        {
+          "id": 4551
+        },
+        {
+          "id": 16531
+        }
+      ]
+    }
+  ],
+  "delayInfo": {
+    "pingDelay": 180,
+    "newRequestDelay": 10
+  }
+}
